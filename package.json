@@ -1,0 +1,25 @@
+{
+  "name": "fluttering-frost-forms",
+  "version": "1.0.1",
+  "description": "A lightweight library for creating and managing forms in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrimstrel/fluttering-frost-forms"
+  },
+  "keywords": [
+    "forms",
+    "validation",
+    "javascript"
+  ],
+  "author": "Ivan Petrov",
+  "license": "MIT",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
